@@ -1,0 +1,1 @@
+Modal and notification code reworked using a separate function for creating modal components and a NotificationManager class for handling notifications

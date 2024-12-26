@@ -1,0 +1,36 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Webpage</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <button class="login-button">Login</button>
+    </nav>
+    <div class="logo"></div>
+  </header>
+  <div class="banner">
+    <img src="image.jpg" alt="Banner Image">
+  </div>
+  <main>
+    <div class="header">Welcome to My Page</div>
+
+    <div>
+      <p>This is some text with no spacing. It's very hard to read and poorly aligned.</p>
+    </div>
+
+    <div>
+      <p>Another paragraph that's just floating here. No semantic meaning!</p>
+    </div>
+
+    <button class="button">Click Me!</button>
+    <a href="http://example.com">Go to Example</a>
+  </main>
+</body>
+</html>
+```

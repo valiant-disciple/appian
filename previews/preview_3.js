@@ -1,0 +1,1 @@
+Menu and cart management code refactored using separate components and event listeners for better encapsulation and reusability
